@@ -1,0 +1,11 @@
+langchain
+dotenv
+pytesseract
+streamlit
+langchain-core
+pandas
+pydantic
+easyocr
+langchain-google-genai
+langchain_core
+reportlab
