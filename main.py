@@ -17,7 +17,7 @@ from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.units import inch
 from reportlab.lib.colors import gray
 
-# Load environment variables
+# Load environment variables data
 load_dotenv()
 reader = easyocr.Reader(['en'])
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
